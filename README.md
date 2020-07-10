@@ -1,8 +1,8 @@
-### Hello Wolrd 👋
+### Hello World 👋
 
 
 
-- 🔭 I'm Aathil, Thanks for reaching my profile, I like to code and colloborate with other developers to build next level applications.
+- 🔭 I'm Aathil. Thanks for reaching my profile, I like to code and collaborate with other developers to build next level applications.
 - 🌱  I’ve blogged here for nearly 2 years on different types of topics https://aathilks.blogspot.com/
 - 👯 I’ve contributed on stackoverflow about 3 years : https://stackoverflow.com/users/8890476/aathil-ahamed
 - 🤔 I’m looking for help with find an Software Engineering Internship
