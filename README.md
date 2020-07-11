@@ -3,7 +3,8 @@
 
 
 - 🔭 I'm Aathil. Thanks for reaching my profile, I like to code and collaborate with other developers to build next level applications.
-- ⚡ Visitors so far ![visitors](https://visitor-badge.glitch.me/badge?page_id=aathil-Mr-ITGuy.aathil-Mr-ITGuy)
+- ⚡ Visitors so far 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=aathil-Mr-ITGuy.aathil-Mr-ITGuy)
 - 🌱  I’ve blogged here for nearly 2 years on different types of topics https://aathilks.blogspot.com/
 - 👯 I’ve contributed on stackoverflow about 3 years : https://stackoverflow.com/users/8890476/aathil-ahamed
 - 🤔 I’m looking for help with find an Software Engineering Internship
