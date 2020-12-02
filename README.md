@@ -3,7 +3,7 @@
 
 
 - 🔭 I'm Aathil. Thanks for reaching my profile, I like to code and collaborate with other developers to build next level applications.
-- 💼 Trainee Associate Software Engineer (Anroid) @ The Elegant Media
+- 💼 Trainee Associate Software Engineer (Android) @ The Elegant Media
 - ⚡ Visitors so far 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=aathil-Mr-ITGuy.aathil-Mr-ITGuy)
 - 🌱  I’ve blogged here for nearly 2 years on different types of topics https://aathilks.blogspot.com/
