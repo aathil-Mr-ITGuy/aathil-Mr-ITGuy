@@ -1,30 +1,138 @@
-Hey there, fellow developers! 👋
 
-Welcome to my GitHub Readme! I'm Aathil, a Data Engineer at D&B Properties in Dubai. I specialize in Python, Azure, Postgres, and Pandas, and I'm here to bring some fun and excitement to the coding world! So, buckle up and let's dive in!
+<h1 align='center'> Hi there 👋, I'm Aathil Ahamed 👨‍💻 </h1>
 
-About Me
+<p align='center'>
+ I live in Dubai, United Arab Emirates, and work at <b>D&B Properties</b> as a Data Engineer. I'm Aathil specializing in ETL (Extract, Transform, Load) processes and data pipeline development. While my official title is Data Engineer, I consider myself a versatile Data Developer with expertise in various BI,  and Data Engineering projects. My role involves designing, implementing, and maintaining efficient data workflows to support the organization's data-driven initiatives.
 
-🔭 Currently, I'm rocking it as a Data Engineer at D&B Properties in Dubai.
+</p>
 
-🐍 I speak the language of Python fluently and love to use it to build next-level applications.
 
-⚡ Fun fact: I've had a good number of visitors on my profile so far. Check out the count below:
-visitors
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Faathil-Mr-ITGuy&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Faathil-Mr-ITGuy)
+<p align='center'>
+  <a href="https://www.linkedin.com/in/aathilks/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:atldeae@gmail.com?subject=Hi%Aathil"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-🌱 I've been blogging for nearly 4 years, covering various exciting topics.
+</p>
 
-👯 I've been an active contributor on Stack Overflow for around 3 years. You can find me there: Aathil on Stack Overflow [https://stackoverflow.com/users/8890476/aathil-ahamed]
 
-💬 Let's connect on LinkedIn: Aathil's LinkedIn
+## Technologies
+<!-- <p align='center'>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffffff" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://airflow.apache.org/"><img src="https://img.shields.io/badge/Apache_Airflow-2f8780.svg?&style=for-the-badge&logo=apache-airflow" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://databricks.com/"><img src="https://img.shields.io/badge/Databricks-red.svg?&style=for-the-badge&logo=databricks&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-blue.svg?&style=for-the-badge&logo=postgresql&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/Amazon_Web_Services-orange.svg?&style=for-the-badge&logo=amazon&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-3670A0.svg?&style=for-the-badge&logo=pandas&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://spark.apache.org/docs/latest/api/python/"><img src="https://img.shields.io/badge/Pyspark-orange.svg?&style=for-the-badge&logo=apache-spark&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://docs.pytest.org/"><img src="https://img.shields.io/badge/pytest-0fa7d1.svg?&style=for-the-badge&logo=pytest&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.looker.com/"><img src="https://img.shields.io/badge/looker-3670A0.svg?&style=for-the-badge&logo=looker&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://superset.apache.org/"><img src="https://img.shields.io/badge/apache_superset-114f63.svg?&style=for-the-badge&logo=superset&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.getdbt.com/"><img src="https://img.shields.io/badge/dbt-de5d40.svg?&style=for-the-badge&logo=dbt&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://greatexpectations.io/"><img src="https://img.shields.io/badge/great_expectations-de5d40.svg?&style=for-the-badge&logo=great-expectations&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p> -->
 
-😄 Pronouns: He/Him/His/Bro/Machan/It Guy 😉
+**Cloud Infrastructure**
+<p align='left'>
+    <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Microsoft_Azure-blue.svg?&style=for-the-badge&logo=microsoft-azure&logoColor=white" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://azure.microsoft.com/services/databricks/"><img src="https://img.shields.io/badge/Azure_Databricks-4479A1.svg?&style=for-the-badge&logo=apache-spark&logoColor=white" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
-![This is Aathil Ahamed](https://github.com/aathil-Mr-ITGuy/aboutMe/blob/master/aathil.gif?raw=true)
+**Scripting**
+<p align='left'>
+    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffffff" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href=""><img src="https://img.shields.io/badge/sql-878280?style=for-the-badge&logo=sql&logoColor=ffffff" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
-Fun Tech Childhood
-Here's a fun fact about my tech-savvy childhood: I was the only kid in my class for a long period who knew how to format a PC, crack passwords, and stay up-to-date with the latest tech updates. I guess you could say I was the ultimate tech guru of my time! 💻
+**Orchestration**
+<p align='left'>
+  <a href="https://airflow.apache.org/"><img src="https://img.shields.io/badge/Apache_Airflow-2f8780.svg?&style=for-the-badge&logo=apache-airflow" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
-Thanks for stopping by, and I look forward to connecting and collaborating with you all on some exciting projects!
+**Containers**
+<p align='left'>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
-Keep coding and stay awesome! ✨
+**Data Base - Data Warehouse - Data Lake**
+<p align='left'>
+  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-blue.svg?&style=for-the-badge&logo=postgresql&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://azure.microsoft.com/services/sql-data-warehouse/"><img src="https://img.shields.io/badge/Azure_Data_Warehouse-0078D4.svg?&style=for-the-badge&logo=microsoft-azure&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://azure.microsoft.com/services/storage/data-lake-storage/"><img src="https://img.shields.io/badge/Azure_Data_Lake-0078D4.svg?&style=for-the-badge&logo=microsoft-azure&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+</p>
+
+**Data Processing**
+<p align='left'>
+  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-3670A0.svg?&style=for-the-badge&logo=pandas&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://spark.apache.org/docs/latest/api/python/"><img src="https://img.shields.io/badge/Pyspark-orange.svg?&style=for-the-badge&logo=apache-spark&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+**Data Visualization**
+<p align='left'>
+  <a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/Power_BI-F2C811.svg?&style=for-the-badge&logo=microsoft-power-bi&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+**Data Processing (ETL)**
+<p align='left'>
+  <a href="https://www.talend.com/"><img src="https://img.shields.io/badge/Talend-1679B4.svg?&style=for-the-badge&logo=talend&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+**Data Scraping**
+<p align='left'>
+  <a href="https://www.selenium.dev/"><img src="https://img.shields.io/badge/Selenium-43B02A.svg?&style=for-the-badge&logo=selenium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.crummy.com/software/BeautifulSoup/"><img src="https://img.shields.io/badge/BeautifulSoup-366994.svg?&style=for-the-badge&logo=beautifulsoup&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+
+**Data Transformation - Data Validation**
+<p align='left'>
+  <a href="https://www.getdbt.com/"><img src="https://img.shields.io/badge/dbt-de5d40.svg?&style=for-the-badge&logo=dbt&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;</a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+
+**Workflow Automation Tools**
+<p align='left'>
+  <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF.svg?&style=for-the-badge&logo=github-actions&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.jenkins.io/"><img src="https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+
+**API Development**
+<p align='left'>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/fastapi-2a7358.svg?&style=for-the-badge&logo=fastapi&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+
+**Testing**
+<p align='left'>
+  <a href="https://docs.pytest.org/"><img src="https://img.shields.io/badge/pytest-0fa7d1.svg?&style=for-the-badge&logo=pytest&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<!-- ## Working Experience
+#### D&B Properties
+- **Data Engineer** (September 2022 - now())
+
+#### iúnigo
+- **Lead Data Scientist** (November 2020 - March 2021)
+
+- **Data Scientist** (April 2018 - November 2020)
+
+#### Seguros Sura
+- **Actuarial Analyst** (April 2017 - April 2018)
+
+## Education
+- **Cloud Data Engineering** at ITBA Universidad (2020-2021)
+
+- **Actuary** at Universidad de Buenos Aires (2012-2018)
+
+
+## Certifications
+- [Astronomer Certification DAG Authoring for Apache Airflow](https://www.credly.com/badges/46b2e16a-d5dc-49a2-a11d-c2a83b625c14?source=linked_in_profile)
+- [Astronomer Certification for Apache Airflow Fundamentals](https://www.credly.com/badges/4bea8fba-eae4-4402-9e78-5cb471024433?source=linked_in_profile)
+- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/e820e3f5-e1e6-4073-b71c-abde988cfa8e?source=linked_in_profile) (Expires: May 2025)
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/62ce53d2-26fa-470d-a1f6-789a74af2c4e/public_url) (Expires: February 2025)
+- [dbt Fundamentals](https://www.credential.net/1c5ac53b-7170-4527-8960-84a39c0a2dd1) (Expires: May 2024) -->
+
+
